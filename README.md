@@ -1,7 +1,4 @@
-# CS 456 A1 - Socket Programming
-
-> Yufei Yang
-> 20610147
+# Socket Programming
 
 ## Compile and Run
 
